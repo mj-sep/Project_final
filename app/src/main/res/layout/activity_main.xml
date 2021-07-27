@@ -44,8 +44,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text=" 우리 집 ▼ "
-            android:layout_weight="0" />
+            android:layout_weight="0"
+            android:text="   우리 집 ▼ " />
 
         // 구글 지도
         <fragment xmlns:android="http://schemas.android.com/apk/res/android"
